@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Web
+node_modules/
+dist/
+.next/
+.vercel/
+.wrangler/
+
+# Logs and local env
+*.log
+.env
+.env.*
+!.env.example
+
