@@ -17,3 +17,16 @@ Game source code lives in separate repositories, starting with `flapsc/Glowstrid
 
 Primary domain: `buffgames.app`
 
+## Local Preview
+
+```bash
+python3 -m http.server 4173 --directory web
+```
+
+Open `http://127.0.0.1:4173`.
+
+## Cloudflare Pages
+
+- Build command: none
+- Output directory: `web`
+- `wrangler.toml` sets `pages_build_output_dir = "web"`
