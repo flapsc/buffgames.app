@@ -1,0 +1,19 @@
+{
+  "name": "Buff Games",
+  "short_name": "Buff Games",
+  "icons": [
+    {
+      "src": "/assets/site-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/site-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#03100e",
+  "background_color": "#03100e",
+  "display": "standalone"
+}
