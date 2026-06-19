@@ -1,5 +1,5 @@
-# Buff Games Web
+# DailyBuff Games Web
 
-Landing site for Buff Games, game pages, store links, privacy policy links, and future announcements.
+Landing site for DailyBuff Games, game pages, store links, privacy policy links, and future announcements.
 
-Primary domain: `buffgames.app`.
+Primary domain: `dailybuffgames.app`.

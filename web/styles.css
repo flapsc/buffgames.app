@@ -99,7 +99,7 @@ a {
   overflow: hidden;
   background:
     linear-gradient(90deg, rgba(3, 16, 14, 0.92) 0%, rgba(3, 16, 14, 0.70) 44%, rgba(3, 16, 14, 0.18) 100%),
-    image-set(url("assets/buffgames-logo-concept.png") 1x);
+    image-set(url("assets/glowstride-icon.png") 1x);
   background-size: cover;
   background-position: center;
 }

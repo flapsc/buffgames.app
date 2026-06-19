@@ -1,6 +1,6 @@
-# Buff Games
+# DailyBuff Games
 
-Landing site and policy hub for Buff Games.
+Landing site and policy hub for DailyBuff Games.
 
 ## Scope
 
@@ -15,7 +15,7 @@ Game source code lives in separate repositories, starting with `flapsc/Glowstrid
 
 ## Domain
 
-Primary domain: `buffgames.app`
+Primary domain: `dailybuffgames.app`
 
 ## Local Preview
 
